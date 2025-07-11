@@ -1,0 +1,4 @@
+openai
+python-docx
+sqlite3      # comes with Python stdlib (no pip needed)
+python-dotenv  # if you want to store OpenAI key in .env file
